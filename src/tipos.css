@@ -1,0 +1,475 @@
+.electric{
+    background-color: yellow;
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 54px;
+    height: 20px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+
+.normal{
+    background-color: gray;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 54px;
+    height: 20px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+
+.fire{
+    background-color: red;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 54px;
+    height: 20px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.grass{
+    background-color: green;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 54px;
+    height: 20px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.poison{
+    background-color: purple;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 54px;
+    height: 20px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.flying{
+    background-color: #89F5EB;
+    color: gray;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 54px;
+    height: 20px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.water{
+    background-color: blue;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 54px;
+    height: 20px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.bug{
+    background-color: rgb(116, 165, 96);
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 54px;
+    height: 20px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+
+.ground{
+    background-color: #8D8648;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 54px;
+    height: 20px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.fairy{
+    background-color: pink;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 54px;
+    height: 20px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.fighting{
+    background-color: #CA7717;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 54px;
+    height: 20px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.psychic{
+    background-color: palevioletred;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 54px;
+    height: 20px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.rock{
+    background-color: #8D7025;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 54px;
+    height: 20px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.steel{
+    background-color: #A0A0A0;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 54px;
+    height: 20px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.ice{
+    background-color: #06A7D2;
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 54px;
+    height: 20px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.ghost{
+    background-color: purple;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 54px;
+    height: 20px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.dragon{
+    background-color: #FF6A00;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 54px;
+    height: 20px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.dark{
+    background-color: black;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 54px;
+    height: 20px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+
+
+.electricpoke{
+    background-color: yellow;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 135px;
+    height: 29px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+
+.normalpoke{
+    background-color: gray;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 135px;
+    height: 29px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+
+.firepoke{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 135px;
+    height: 29px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.grasspoke{
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 135px;
+    height: 29px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.poisonpoke{
+    background-color: purple;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 135px;
+    height: 29px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.flyingpoke{
+    background-color: #89F5EB;
+    color: gray;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 135px;
+    height: 29px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.waterpoke{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 135px;
+    height: 29px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.bugpoke{
+    background-color: rgb(116, 165, 96);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 135px;
+    height: 29px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+
+.groundpoke{
+    background-color: #8D8648;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 135px;
+    height: 29px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.fairypoke{
+    background-color: pink;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 135px;
+    height: 29px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.fightingpoke{
+    background-color: #CA7717;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 135px;
+    height: 29px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.psychicpoke{
+    background-color: palevioletred;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 135px;
+    height: 29px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.rockpoke{
+    background-color: #8D7025;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 135px;
+    height: 29px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.steelpoke{
+    background-color: #A0A0A0;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 135px;
+    height: 29px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.icepoke{
+    background-color: #06A7D2;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 135px;
+    height: 29px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.ghostpoke{
+    background-color: purple;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 135px;
+    height: 29px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.dragonpoke{
+    background-color: #FF6A00;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 135px;
+    height: 29px;
+    border-radius: 15%;
+    margin: 2px;
+}
+
+.darkpoke{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 135px;
+    height: 29px;
+    border-radius: 15%;
+    margin: 2px;
+}
